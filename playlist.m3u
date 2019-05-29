@@ -1,0 +1,86 @@
+#EXTM3U
+# -------------------------------------------------------------------------------------------Новостные
+#EXTINF:-1,Россия 24 (Новостные)
+acestream://4572f64d3ed7636a341a5446933bdb0d76a92232
+#EXTINF:-1,Москва 24 (Новостные)
+acestream://1bc39383ec59589802efe4ae4e610e8a014e1946
+# -------------------------------------------------------------------------------------------Познавательные
+#EXTINF:-1,Планета HD (Познавательные)
+acestream://5b001a37c76dff958aecc28bc372c28281ecf5fd
+#EXTINF:-1,Discovery Россия HD (Познавательные)
+acestream://f9d10e6fa938417babd0311b5558762c5427cd24
+#EXTINF:-1,Discovery Science HD (Познавательные)
+acestream://4a735af201823ef27818d11f44c64d04446d97b6
+#EXTINF:-1,History Россия HD (Познавательные)
+acestream://14283a2a7c935c6b7505c073476ee2591277c9a1
+#EXTINF:-1,History2 HD (Познавательные)
+acestream://ef9039893315b17d0bfc4c08b2a3f7b5edec4332
+#EXTINF:-1,Viasat Nature/History HD (Познавательные)
+acestream://d053183905f49e78b26df9da22c3c5e305ce9b8a
+#EXTINF:-1,Nat Geo Wild HD (Познавательные)
+acestream://06cb0cbbada44d44ab65f113198a760269381e06
+#EXTINF:-1,Animal Planet HD (Познавательные)
+acestream://815daf9ba05ea77cf0fc67771359548eb08a41cd
+#EXTINF:-1,HD-Life (Познавательные)
+acestream://468433bee3cb168902e2515557b91563491923c3
+#EXTINF:-1,National Geographic HD (Познавательные)
+acestream://05f6a0102e229d75035e985c0b6567fe21f390b2
+#EXTINF:-1,Travel channel HD (Познавательные)
+acestream://c5273075b1d933b249f3c028c9a493388ed17386
+#EXTINF:-1,Travel+Adventure HD (Познавательные)
+acestream://2b9b8f57396ffd86f9d073e485a343f018b38e10
+#EXTINF:-1,Охотник и рыболов HD (Познавательные)
+acestream://95d537b8495956e6a7a7cd9a0211bcb0bc1b3066
+# -------------------------------------------------------------------------------------------Развлекательные
+#EXTINF:-1,ТНТ HD (Развлекательные)
+acestream://9477d75fd3fe2be6df2ba3fcb4f98009339da3d6
+#EXTINF:-1,Ю (Развлекательные)
+acestream://05319408fe815362c6a60aae8a5aed2312512a8e
+#EXTINF:-1,Перец International (Развлекательные)
+acestream://4f2449afd530f8533be0536f009b8ca0756fac02
+# -------------------------------------------------------------------------------------------Общие
+#EXTINF:-1,НТВ HD (Общие)
+acestream://879b42e44f9fa7a868758bded64eacdcc7bf11a0
+#EXTINF:-1,Первый канал HD (Общие)
+acestream://ee3ce944fa3a5f49428240d363ffc368454c6b72
+#EXTINF:-1,РЕН ТВ (Общие)
+acestream://60031cff6b9437174deabed3b1af588c8e44367e
+#EXTINF:-1,Россия 1 HD (Общие)
+acestream://4b673ec4abab504eb940485240b7d5f9ef4d9cac
+# -------------------------------------------------------------------------------------------Фильмы
+#EXTINF:-1,ViP Comedy HD (Фильмы)
+acestream://661441cff6be057211ec5a722a0d73e48a0675ee
+#EXTINF:-1,ViP Megahit HD (Фильмы)
+acestream://265c96dc34bab869521410dfcf00ccb596540508
+#EXTINF:-1,ViP Premiere HD (Фильмы)
+acestream://844466e115fe5dc0a9dfe5abc59ab14ccf1dd547
+#EXTINF:-1,КиноПремиум HD (Фильмы)
+acestream://6a45f49f6cb3f271cf28d94bd0a6c61897134c61
+#EXTINF:-1,КиноТВ HD (Фильмы)
+acestream://69cae515f1b88f3695e09a55988295b2fe9b9e61
+#EXTINF:-1,Киномикс (Фильмы)
+acestream://bfa49750d8153978629b6dcffcd13d0a59cb35a0
+#EXTINF:-1,Кинопоказ (Фильмы)
+acestream://5fa0a903f6d4e10adf1603a050e1f77eb3a2ad09
+#EXTINF:-1,Киносвидание (Фильмы)
+acestream://10e5781bbfac4fed4059c2084cb4bef3b4c338a5
+#EXTINF:-1,Киносемья (Фильмы)
+acestream://8e41521482e2daf70b032dea8348abc06f58192a
+#EXTINF:-1,Мужское кино (Фильмы)
+acestream://6976c8024012ae13de8cd5003d463983f398a9df
+#EXTINF:-1,Остросюжетное HD (Фильмы)
+acestream://84b27b33a6e7b057904e667684136bc108371f6c
+#EXTINF:-1,Дом кино Премиум HD (Фильмы)
+acestream://863878744814575d1686df2d2a6250d5eda64a22
+#EXTINF:-1,Кинопоказ HD1 (Фильмы)
+acestream://6b2c7666f66555204c33ce5e523b8e56fe00d743
+#EXTINF:-1,Кинопоказ HD2 (Фильмы)
+acestream://da116afe3adb4831f53e87d118b1f8c650b719d8
+#EXTINF:-1,43 Канал HD (Фильмы)
+acestream://423abcef5dcee8279c272330c87eb52f1fe90c94
+#EXTINF:-1,Наш Детектив HD (Фильмы)
+acestream://e106287c1fffac59668f0193e1cdb0e0d86037f7
+#EXTINF:-1,Наш Кинороман HD (Фильмы)
+acestream://1a52808675389dcfc4474d0bb268c4a6ce927ed3
+#EXTINF:-1,Страшное HD (Фильмы)
+acestream://3c8a808c59a87fb1dc9df117df469713599877d3
