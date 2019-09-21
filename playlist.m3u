@@ -36,8 +36,6 @@ acestream://95d537b8495956e6a7a7cd9a0211bcb0bc1b3066
 acestream://9477d75fd3fe2be6df2ba3fcb4f98009339da3d6
 #EXTINF:-1,Ю (Развлекательные)
 acestream://05319408fe815362c6a60aae8a5aed2312512a8e
-#EXTINF:-1,Перец International (Развлекательные)
-acestream://4f2449afd530f8533be0536f009b8ca0756fac02
 # -------------------------------------------------------------------------------------------Общие
 #EXTINF:-1,НТВ HD (Общие)
 acestream://879b42e44f9fa7a868758bded64eacdcc7bf11a0
@@ -46,7 +44,7 @@ acestream://ee3ce944fa3a5f49428240d363ffc368454c6b72
 #EXTINF:-1,РЕН ТВ (Общие)
 acestream://60031cff6b9437174deabed3b1af588c8e44367e
 #EXTINF:-1,Россия 1 HD (Общие)
-acestream://4b673ec4abab504eb940485240b7d5f9ef4d9cac
+acestream://6e91c821b3b4c37e4412e8f7e0443194d2a10877
 # -------------------------------------------------------------------------------------------Фильмы
 #EXTINF:-1,ViP Comedy HD (Фильмы)
 acestream://661441cff6be057211ec5a722a0d73e48a0675ee
@@ -75,7 +73,7 @@ acestream://863878744814575d1686df2d2a6250d5eda64a22
 #EXTINF:-1,Кинопоказ HD1 (Фильмы)
 acestream://6b2c7666f66555204c33ce5e523b8e56fe00d743
 #EXTINF:-1,Кинопоказ HD2 (Фильмы)
-acestream://da116afe3adb4831f53e87d118b1f8c650b719d8
+acestream://7894566f48d136d92f1c3c344ba8a9f78fc01c66
 #EXTINF:-1,43 Канал HD (Фильмы)
 acestream://423abcef5dcee8279c272330c87eb52f1fe90c94
 #EXTINF:-1,Наш Детектив HD (Фильмы)
@@ -84,6 +82,17 @@ acestream://e106287c1fffac59668f0193e1cdb0e0d86037f7
 acestream://1a52808675389dcfc4474d0bb268c4a6ce927ed3
 #EXTINF:-1,Страшное HD (Фильмы)
 acestream://3c8a808c59a87fb1dc9df117df469713599877d3
+#EXTINF:-1,Кинопремьера HD (Фильмы)
+acestream://be5599ac4112e2d0a4765f6e05a42aa683d6dd31
+#EXTINF:-1,Ultra Cinema HD (Фильмы)
+acestream://342655752f25f90930fcd17e0f0e75eb2324a70c
+#EXTINF:-1,U.HD (Фильмы)
+acestream://ff34ecb123cb1e8f4c78a0e5e71b26ed27b31844
+# -------------------------------------------------------------------------------------------Музыка
+#EXTINF:-1,RUSSIAN MUSIC BOX HD (Музыка)
+acestream://f357fdd9bc871a303241ddec695830ccb73480a8
+#EXTINF:-1,RU TV HD (Музыка)
+acestream://5d65bb99992aa2f40a62df563ff23405f21865b0
 # -------------------------------------------------------------------------------------------Эротика
 #EXTINF:-1,Hustler HD (Эротика)
 acestream://66604bbfffc9c2b2623b9bbdb6c0c741d17a89ba
